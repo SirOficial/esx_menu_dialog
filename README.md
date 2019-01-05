@@ -9,6 +9,8 @@ and
 ```background-image ```
 to change the image
 
+Discord: discord.gg/EnaSrK5
+
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
