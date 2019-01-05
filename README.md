@@ -17,9 +17,9 @@ você poderá mudar a imagem
 
 ## ATTENTION    ATENÇÃO
 
-- Lembre-se de usar o mesmo tamanho, se redimensionar a imagem, mexa no app.css para colocar no tamanho que deseja.
+- Lembre-se de usar o mesmo tamanho, se redimensionar a imagem, mexa no ```app.css``` para colocar no tamanho que deseja.
 
-- Remember to use the same size, if you resize the image, tweak the app.css to put in the size you want.
+- Remember to use the same size, if you resize the image, tweak the ```app.css``` to put in the size you want.
 
 Discord: discord.gg/EnaSrK5
 
