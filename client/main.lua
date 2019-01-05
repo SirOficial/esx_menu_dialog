@@ -77,7 +77,7 @@ Citizen.CreateThread(function()
 			end
 
 			data.value = ESX.Math.Trim(data.value)
-
+			
 			-- Don't post if the value is negative or if it's 0
 			if post then
 				menu.submit(data, menu)
