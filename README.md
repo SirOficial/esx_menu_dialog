@@ -1,6 +1,14 @@
 # esx_menu_dialog
 Simple script used for inputs.
 
+## ESX MENU DIALOG with GIF or IMAGE
+
+- Search for 
+```html/css/app.css ```
+and 
+```background-image ```
+to change the image
+
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
